@@ -37,17 +37,9 @@ const Data =[
         id:5,
         category:"experience",
         icon:"icon-briefcase",
-        year: "July-Present-2024",
-        title:"Jspiders Maraathalli (Training)",
-        desc:"MERN Stack Developer And Sql Developer",
-    },
-    {
-        id:6,
-        category:"experience",
-        icon:"icon-briefcase",
-        year: "July-Present-2024",
-        title:"Jspiders Maraathalli (Training)",
-        desc:"MERN Stack Developer And Sql Developer",
+        year: "Sept 2020 - April 2021",
+        title:"Prarambh Concept School",
+        desc:"Computer‘s teacher",
     },
 ];
 export default Data
