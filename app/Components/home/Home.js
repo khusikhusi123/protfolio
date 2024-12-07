@@ -25,7 +25,7 @@ const Home = () => {
             />
           </Head>
           <div class="container3">
-            <div class="typewriter3">I'm Front end Developer</div>
+            <div class="typewriter3">I&apos;m Front end Developer</div>
           </div>
         </span>
 
